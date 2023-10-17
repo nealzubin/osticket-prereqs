@@ -94,3 +94,36 @@ We start by enabling IIS(internet information services) in windows with CGI and 
 
 ![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/9a5686b2-ceed-4527-9673-23f816ac3707)
 
+
+
+<p>
+Next, we enable IIS by checking the box. After that, expand the IIS box by hitting the "+"
+</p>
+
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/c972939c-af3c-42ab-bb11-69b7c91f88cb)
+
+
+<p>
+In the IIS dropdown, we want to navigate to Application Development Features > CGI. Check this box. 
+</p>
+
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/68ef9cd0-6b7a-4fd1-beff-7b3eb618b8f9)
+
+
+<p>
+Collapse the Application Development Features menu and then open up the "Common HTTP features" menu. Make sure all of these are checked. Then click ok. 
+</p>
+
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/d22c510e-fd2e-485e-b52a-5d47cc2d44fa)
+
+<p>
+We can confirm IIS was installed by opening up a web browser and typing in our loop address of 127.0.0.1 The screen will resemble the one below.  
+</p>
+
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/d21fb14b-6048-4ab3-84b5-5327201a81af)
+
+
+
+
+
+
