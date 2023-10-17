@@ -70,13 +70,23 @@ Once we have created our VM's and RG, we are going to remote into our virtual ma
 </p>
 
 ![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/5a3c1680-28d0-4bd0-a0d9-686455770c92)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/237206a7-01b7-45f5-8202-3aee9238f117)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/9a0d4145-04ce-4f84-8e2e-cc5d4c9378ac)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/9fd9dd81-6153-4015-aaed-7f5ffcfe5267)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/5926897a-d7de-4e8e-9375-47222851ba30)
 
 
 
 
 
 
+<p>
+Once we have connected to our VM, we will begin installation of the necessary prerequisites for osTicket.
+</p>
 
+
+
+<h2>Installation Steps</h2>
 
 
 
