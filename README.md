@@ -88,6 +88,9 @@ Once we have connected to our VM, we will begin installation of the necessary pr
 
 <h2>Installation Steps</h2>
 
+<p>
+We start by enabling IIS(internet information services) in windows with CGI and common HTTP features. IIS is essentially a web server that allows your VM to serve up websites because osTicket runs out of a website. To do that, right click the start menu and click run. Type control panel > programs > Turn Windows features on or off
+</p>
 
-
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/9a5686b2-ceed-4527-9673-23f816ac3707)
 
