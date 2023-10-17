@@ -55,11 +55,10 @@ Once you click "virtual machines" and create VM from scratch > fill out the fiel
 ![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/71e7418f-0e20-4e18-bb29-b4a0d47252c4)
 
 
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/d12c7cde-d159-469f-a4d5-708d4461f5fb)
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Once you are at the networking tab, we are going to allow azure to create our virtual network. This will also create a virtual subnet automatically. Finally, we will click "review+create"
+Once you are at the networking tab, we are going to allow azure to create our virtual network. This will also create a virtual subnet automatically. Finally, we will click "review+create" > "create"
 </p>
 <br />
