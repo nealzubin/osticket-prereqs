@@ -62,3 +62,22 @@ Once you click "virtual machines" and create VM from scratch > fill out the fiel
 Once you are at the networking tab, we are going to allow azure to create our virtual network. This will also create a virtual subnet automatically. Finally, we will click "review+create" > "create"
 </p>
 <br />
+
+
+
+<p>
+Once we have created our VM's and RG, we are going to remote into our virtual machine and begin installing software. In order to get logged into our VM, we need to use remote desktop connection(windows) and microsoft remote desktop(MAC). We will type in the public IP address of our virtual machine to connect. 
+</p>
+
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/5a3c1680-28d0-4bd0-a0d9-686455770c92)
+
+
+
+
+
+
+
+
+
+
+
