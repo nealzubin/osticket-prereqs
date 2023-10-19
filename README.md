@@ -182,4 +182,26 @@ Create the directory C:\PHP. This can be done in file explorer > C drive > New f
 
 
 
+<p>
+Open IIS as administrator > Register PHP from within IIS > Reload IIS (Open IIS, Stop and Start the server)
+</p>
+
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/2c5b94ea-76bf-47b6-b7da-b0e733b65c44)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/421885d5-67a8-4a41-afbc-d820411e2820)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/974ee1b0-ee29-4b34-879b-9a093f44c547)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/1ad8d915-8816-48e6-842d-1ef63098f170)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/5aedb19f-8a26-4ab1-963d-bb3952a91ab5)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
