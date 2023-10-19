@@ -145,7 +145,7 @@ Create the directory C:\PHP. This can be done in file explorer > C drive > New f
 
 
 <p>
- download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
+ Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
 </p>
 
 
@@ -156,13 +156,27 @@ Create the directory C:\PHP. This can be done in file explorer > C drive > New f
 ![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/2b21928d-76b9-4a87-b758-be83b9f65bad)
 
 
+<p>
+ Download and install VC_redist.x86.exe.
+</p>
+
+
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/b60ea1c2-964a-482b-86e8-fb1c299e7893)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/8f48b688-7f07-4583-947d-8113f7dec5ec)
 
 
 
+<p>
+ Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) > Choose typical install > Standard Configuration > Install as Windows Service
+ Select Modify Security Settings > Enter root password from before
+</p>
 
 
-
-
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/5dbb89d3-1b9b-4f9c-9217-037a68591b0e)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/e785e940-69e7-4294-9cdc-ee46a20b418f)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/4c7da104-04ba-4053-85c7-79e3cb743ca9)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/7fdd6aeb-9c04-4daa-b3a1-dceebd67ed83)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/965d7cae-9805-4613-9dd3-aa65f201d519)
 
 
 
