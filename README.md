@@ -240,11 +240,68 @@ Rename: ost-config.php > From: C:\inetpub\wwwroot\osTicket\include\ost-samplecon
 
 
 
+<p>
+Assign Permissions: ost-config.php > Disable inheritance -> Remove All > New Permissions -> Everyone -> All
+</p>
+
+
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/3a90fcc4-9b13-41e2-9af8-94b0bf78ef9d)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/5b3a10c1-7f6b-4e80-900e-58d9ab91d7d9)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/bdde349e-5899-444c-9be9-ff6167e59497)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/40249e6f-1064-4d8a-b937-a71283ec2d8f)
+
+
+<p>
+Continue Setting up osticket in the browser > Name Helpdesk and Default email (receives email from customers)
+</p>
+
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/d3bba7f4-7ce1-4fae-ad45-bd755e21230d)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/cc3d11cc-733a-43bd-b354-a6583301a399)
 
 
 
+<p>
+We know have to set up our database before continuing further with the installation. 
+  download and install HeidiSQL > Open Heidi SQL > Create a new session, root/Password1 
+ > Connect to the session > Create a database called “osTicket”
+</p>
 
 
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/ddbb2da7-cfe4-48dd-bd6f-f0bac54c62e8)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/097ca4c8-bc0e-4e9d-9ce4-546ac0d3454a)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/10686296-a119-4a60-a397-fe81879b0706)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/9c3d1f74-189c-447c-b3fb-cf95edb67f7b)
+
+
+<p>
+Continue Setting up osticket in the browser > MySQL Database: osTicket (create this in Heidi SQL)
+ > MySQL Username: root > MySQL Password: Password1 > Click “Install Now!”
+</p>
+
+
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/3ef27f1c-162f-4a17-9d0d-6fdfc12b8f05)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/386ab107-1458-4bed-a032-173b346f5bad)
+
+
+<p>
+Congratulations, hopefully it is installed with no errors! 
+ Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+</p>
+
+
+
+<h2>Clean Up</h2>
+
+<p>
+Delete: C:\inetpub\wwwroot\osTicket\setup
+ Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+</p>
+
+<p>
+Notes:
+ - Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
+ - End Users osTicket URL: http://localhost/osTicket/ 
+</p>
 
 
 
