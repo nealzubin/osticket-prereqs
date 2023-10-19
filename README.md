@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)(coming soon)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -121,6 +121,48 @@ We can confirm IIS was installed by opening up a web browser and typing in our l
 </p>
 
 ![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/d21fb14b-6048-4ab3-84b5-5327201a81af)
+
+
+
+<p>
+Next, we need to download a PHP Manager for IIS
+</p>
+
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/974b1e7f-5415-4714-972f-62643c27c06a)
+
+
+<p>
+Now we download and install the IIS URL Rewrite Module
+</p>
+
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/cffb97e8-965a-4825-b350-d5c82dee93ca)
+
+
+
+<p>
+Create the directory C:\PHP. This can be done in file explorer > C drive > New folder > rename to PHP
+</p>
+
+
+<p>
+ download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
+</p>
+
+
+
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/95e0152e-499c-478f-8b8e-be8d1062fa54)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/8f8f44e1-b7f3-45d5-83af-bdd69df1199a)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/c89c357e-5393-48b1-af3c-fe2c08bad9b3)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/2b21928d-76b9-4a87-b758-be83b9f65bad)
+
+
+
+
+
+
+
+
+
 
 
 
