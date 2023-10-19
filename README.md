@@ -197,6 +197,53 @@ Open IIS as administrator > Register PHP from within IIS > Reload IIS (Open IIS,
 
 
 
+<p>
+Install osTicket v1.15.8 > Download osTicket from the Installation Files Folder > Extract and copy “upload” folder to c:\inetpub\wwwroot >
+ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+</p>
+
+
+
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/2e716c2f-cca5-4662-adcb-65317d453b18)
+
+
+
+
+<p>
+Reload IIS (Open IIS, Stop and Start the server) > Go to sites -> Default -> osTicket(On the right, click “Browse *:80”) > 
+Note that some extensions are not enabled
+</p>
+
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/3133dfc8-a699-48b5-9c95-8d3971dcf6f9)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/459db672-32d5-4177-8895-dd9adc9005bf)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/e3e88230-550c-4ec4-9d61-41138ef03e83)
+
+
+
+<p>
+Go back to IIS, sites -> Default -> osTicket > Double-click PHP Manager > Click “Enable or disable an extension” 
+ > Enable: php_imap.dll > Enable: php_intl.dll > Enable: php_opcache.dll
+Refresh the osTicket site in your browse, observe the changes
+</p>
+
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/62675bb7-6995-4171-be65-eb94b9d57418)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/19000756-a96f-44ad-96f1-ed27141bad5f)
+
+
+
+<p>
+Rename: ost-config.php > From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php > To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+</p>
+
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/5d25a443-2419-4661-9719-12c060379e12)
+![image](https://github.com/nealzubin/osticket-prereqs/assets/145185495/ef198d41-07c4-4fed-8d95-8234d8d5373e)
+
+
+
+
+
+
+
 
 
 
